@@ -1,1 +1,0 @@
-export default function Home(){return <main><h1>Safe Communities Network (SCN)</h1><p>Connecting Communities. Protecting Lives.</p></main>}
